@@ -1,0 +1,11 @@
+C:\projects\TurdTables\bin\Debug\netcoreapp2.0\TurdTables.deps.json
+C:\projects\TurdTables\bin\Debug\netcoreapp2.0\TurdTables.runtimeconfig.json
+C:\projects\TurdTables\bin\Debug\netcoreapp2.0\TurdTables.runtimeconfig.dev.json
+C:\projects\TurdTables\bin\Debug\netcoreapp2.0\TurdTables.dll
+C:\projects\TurdTables\bin\Debug\netcoreapp2.0\TurdTables.pdb
+C:\projects\TurdTables\obj\Debug\netcoreapp2.0\TurdTables.csprojAssemblyReference.cache
+C:\projects\TurdTables\obj\Debug\netcoreapp2.0\TurdTables.csproj.CoreCompileInputs.cache
+C:\projects\TurdTables\obj\Debug\netcoreapp2.0\TurdTables.AssemblyInfoInputs.cache
+C:\projects\TurdTables\obj\Debug\netcoreapp2.0\TurdTables.AssemblyInfo.cs
+C:\projects\TurdTables\obj\Debug\netcoreapp2.0\TurdTables.dll
+C:\projects\TurdTables\obj\Debug\netcoreapp2.0\TurdTables.pdb
