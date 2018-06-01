@@ -1,6 +1,7 @@
 using System;
 using Google.Apis.Gmail;
 
+
 namespace TurdTables {
     public class TurdMail {
         public DateTime Time {get; set;}
@@ -11,6 +12,9 @@ namespace TurdTables {
         public static readonly string Mogden = "Mogden Sewage Works";
         public Boolean CheckMail() {
             //check mail here
+
+            
+
 
             //if we find a mail which hasn't been tweeted
             this.Time = DateTime.Now; //or time from email
