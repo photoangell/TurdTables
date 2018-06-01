@@ -6,7 +6,13 @@ namespace TurdTables
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var email = new TurdMail();
+            //var 
+            email.CheckMail();
+            if (email.Notification) {
+                //do a tweet
+                System.Console.WriteLine("poo found at " + email.Location);
+            }
         }
     }
 }

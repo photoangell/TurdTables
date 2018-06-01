@@ -1,0 +1,14 @@
+C:\projects\TurdTables\bin\Release\netcoreapp2.0\linux-arm\libhostpolicy.so
+C:\projects\TurdTables\bin\Release\netcoreapp2.0\linux-arm\libhostfxr.so
+C:\projects\TurdTables\bin\Release\netcoreapp2.0\linux-arm\TurdTables
+C:\projects\TurdTables\bin\Release\netcoreapp2.0\linux-arm\TurdTables.deps.json
+C:\projects\TurdTables\bin\Release\netcoreapp2.0\linux-arm\TurdTables.runtimeconfig.json
+C:\projects\TurdTables\bin\Release\netcoreapp2.0\linux-arm\TurdTables.runtimeconfig.dev.json
+C:\projects\TurdTables\bin\Release\netcoreapp2.0\linux-arm\TurdTables.dll
+C:\projects\TurdTables\bin\Release\netcoreapp2.0\linux-arm\TurdTables.pdb
+C:\projects\TurdTables\obj\Release\netcoreapp2.0\linux-arm\TurdTables.csprojAssemblyReference.cache
+C:\projects\TurdTables\obj\Release\netcoreapp2.0\linux-arm\TurdTables.csproj.CoreCompileInputs.cache
+C:\projects\TurdTables\obj\Release\netcoreapp2.0\linux-arm\TurdTables.AssemblyInfoInputs.cache
+C:\projects\TurdTables\obj\Release\netcoreapp2.0\linux-arm\TurdTables.AssemblyInfo.cs
+C:\projects\TurdTables\obj\Release\netcoreapp2.0\linux-arm\TurdTables.dll
+C:\projects\TurdTables\obj\Release\netcoreapp2.0\linux-arm\TurdTables.pdb
